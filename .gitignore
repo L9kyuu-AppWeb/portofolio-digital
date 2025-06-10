@@ -1,0 +1,4 @@
+# Jangan upload file konfigurasi rahasia
+.env
+.env.*
+!*.example
