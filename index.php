@@ -406,9 +406,9 @@
             <div class="flex flex-col md:flex-row justify-between items-center">
                 <p class="text-gray-400 mb-4 md:mb-0">&copy; 2025 Portfolio. All rights reserved.</p>
                 <div class="flex space-x-6">
-                    <a href="#" class="text-gray-400 hover:text-accent transition-colors">GitHub</a>
-                    <a href="#" class="text-gray-400 hover:text-accent transition-colors">LinkedIn</a>
-                    <a href="#" class="text-gray-400 hover:text-accent transition-colors">Twitter</a>
+                    <a href="https://github.com/L9kyuu-AppWeb" class="text-gray-400 hover:text-accent transition-colors">GitHub</a>
+                    <a href="https://www.linkedin.com/in/abdul-latif-23896121a/" class="text-gray-400 hover:text-accent transition-colors">LinkedIn</a>
+                    <a href="https://www.youtube.com/@ninesipet5962" class="text-gray-400 hover:text-accent transition-colors">Youtube</a>
                 </div>
             </div>
         </div>
