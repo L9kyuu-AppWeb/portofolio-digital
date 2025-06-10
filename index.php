@@ -354,7 +354,7 @@
                             </div>
                             <div>
                                 <p class="font-semibold">Email</p>
-                                <p class="text-gray-300">developer@example.com</p>
+                                <p class="text-gray-300">mail.latif09@gmail.com</p>
                             </div>
                         </div>
 
